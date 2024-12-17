@@ -1,5 +1,9 @@
 # Tflite-for-CPP
 
+MAJOR SOURCE OF TENSORFLOW SETUP:
+
+https://www.tensorflow.org/install/source
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 BUILDING TENSORFLOW LIBRARY FOR LINUX:
 
@@ -13,7 +17,14 @@ pip install -U pip
 
 override the warning if necessary
 
-FOR THE NEXT STEP WE NEED TO TAKE CARE OF THE CONFIGURATION VERSIONS
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+FOR THE NEXT STEP WE NEED TO TAKE CARE OF THE CONFIGURATION VERSIONS:
+
+https://www.tensorflow.org/install/source#tested_build_configurations
+
+![image](https://github.com/user-attachments/assets/96e7a666-253d-4509-8d4e-7e83e0197fc8)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
