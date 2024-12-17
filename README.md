@@ -113,7 +113,7 @@ sudo apt install libopencv-dev
 
 FOR BUILDING THE PROJECT:
 
-cd build
+mkdir build && cd build
 
 rm -rf *        -> (for a clean build)
 
