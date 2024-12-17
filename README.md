@@ -1,4 +1,4 @@
-# Tflite-for-CPP
+# MNIST Tflite-for-CPP
 
 MAJOR SOURCE OF TENSORFLOW SETUP:
 
