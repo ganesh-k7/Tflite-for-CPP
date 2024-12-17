@@ -115,13 +115,15 @@ FOR BUILDING THE PROJECT:
 
 cd build
 
-rm -rf *    -> (for a clean build)
+rm -rf *        -> (for a clean build)
 
-cmake -DOpenCV_DIR=/usr/lib/x86_64-linux-gnu/cmake/opencv4 ..      -> (check the path of your OpenCV library) 
+cmake -DOpenCV_DIR=/usr/lib/x86_64-linux-gnu/cmake/opencv4 ..         -> (check the path of your OpenCV library) 
 
 make
 
 ./TFLite
+
+"WE ARE EXPECTING THE OUTPUT VALUE TO BE THE SAME AS THE IMAGE GIVEN AS THE INPUT"
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
