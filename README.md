@@ -81,11 +81,17 @@ Install OPENCV for image reading:
 Dependencies:
 
 sudo apt install -y build-essential cmake git pkg-config
+
 sudo apt install -y libjpeg-dev libtiff-dev libpng-dev
+
 sudo apt install -y libavcodec-dev libavformat-dev libswscale-dev
+
 sudo apt install -y libv4l-dev libxvidcore-dev libx264-dev
+
 sudo apt install -y libgtk-3-dev libcanberra-gtk3-dev
+
 sudo apt install -y libatlas-base-dev gfortran
+
 sudo apt install -y python3-dev
 
 OpenCV installation:
