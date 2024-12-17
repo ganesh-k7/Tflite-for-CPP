@@ -107,3 +107,14 @@ make
 ./TFLite
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+
+
+REFERENCES:
+
+https://github.com/karthickai/tflite
+
+https://www.thecodingnotebook.com/2019/11/cross-platform-object-detection-with.html
+
+https://github.com/ValYouW/tflite-dist
+
+https://github.com/frogermcs/MNIST-TFLite/blob/master/notebooks/mnist_model.tflite
