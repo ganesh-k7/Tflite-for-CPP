@@ -28,9 +28,4 @@ add_executable(TFLite main.cpp)
 # Link TensorFlow Lite and OpenCV libraries to the executable
 target_link_libraries(TFLite tensorflowlite ${OpenCV_LIBS})
 
-# Add a custom target to clean the `build` directory
-add_custom_target(clean_build
-    COMMAND ${CMAKE_COMMAND} -E rm -rf ${CMAKE_BINARY_DIR}/*
-    COMMENT "Cleaning up build directory"
-)
 
